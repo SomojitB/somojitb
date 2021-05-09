@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on Django
 - 🤔 I’m looking for help with Web development
 - 📫 How to reach me: somojitb@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I can make good coffee! 😅
